@@ -21,3 +21,5 @@ Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecim
 > [Documento PDF - ISO 27000](https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf)
 
 
+### Glossário — DevOps no NotebookLM
+> O Glossário do tema encontra-se no arquivo Glossário.md na estrutura do diretório **NotebookLM**
