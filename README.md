@@ -20,6 +20,11 @@ Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecim
 > Crie um infográfico no estilo sketchnote a partir deste documento  
 > [Documento PDF - ISO 27000](https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf)
 
+### 💻 Prompts:
+> Como exemplo utilizei um prompt sobre o tema deste projeto.  
+> Como iniciar uma carreira em Cloud e DevOps do zero?
 
-### Glossário — DevOps no NotebookLM
+
+
+### 🌐 Glossário — DevOps no NotebookLM
 > O Glossário do tema encontra-se no arquivo Glossário.md na estrutura do diretório **NotebookLM**
