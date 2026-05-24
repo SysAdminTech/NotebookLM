@@ -1,10 +1,19 @@
 # NotebookLM
 Este repositório descreve as features do NotebookLM do Google
 
-###Visão Geral
+### 📌 Visão Geral
 `Habilidade de agente de IA para o Google NotebookLM — importar fontes (URLs, YouTube, arquivos, texto) e gerar podcasts, vídeos, relatórios, questionários, flashcards, mapas mentais, slides, infográficos e tabelas de dados.`
 
-###Objetivo:
+### 🎯 Objetivo:
 Este projeto tem como objetivo demonstrar o funcionando pratico do NotebookLM e imputar minhas fontes de estudo para este laboratório ao qual o foco será **Fomação Devops.**
 
-###Uso
+### ✔️ Uso
+Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecimento de linha de comando.
+
+**Gerando conteúdo de estudos a partir de url do youtube**
+> Gere um conteúdo de vídeo, questionário e flashcards a partir destes links  
+> https://www.youtube.com/watch?v=1FZZ7LT3FfA
+> https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVz92ycqn9wk%26list%3DPLucm8g_ezqNqz-DVT9n_z-XjRkQ03m7U5%26pp%3DiAQB
+> https://www.youtube.com/watch?v=b5nkNXqt_QQ
+
+##
