@@ -18,6 +18,6 @@ Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecim
 
 ##Criar um infográfico a partir de um PDF:
 > Crie um infográfico no estilo sketchnote a partir deste documento  
-> [documento]https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf
+> [documento](https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf)
 
 
