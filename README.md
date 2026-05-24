@@ -16,8 +16,8 @@ Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecim
 > https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVz92ycqn9wk%26list%3DPLucm8g_ezqNqz-DVT9n_z-XjRkQ03m7U5%26pp%3DiAQB
 > https://www.youtube.com/watch?v=b5nkNXqt_QQ
 
-##Criar um infográfico a partir de um PDF:
+**Criar um infográfico a partir de um PDF:**
 > Crie um infográfico no estilo sketchnote a partir deste documento  
-> [documento](https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf)
+> [Documento PDF - ISO 27000](https://github.com/SysAdminTech/NotebookLM/blob/main/Docs/Treinamento%20completo%20ISO%2027001.pdf)
 
 
