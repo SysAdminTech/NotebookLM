@@ -23,7 +23,7 @@ Basta dizer ao seu agente de IA o que você deseja. Não é necessário conhecim
 ### 💻 Prompts:
 > Como exemplo utilizei um prompt sobre o tema deste projeto.  
 > Como iniciar uma carreira em Cloud e DevOps do zero?  
-> Resposta do **Agent** do notebookLM:  
+### Resposta do **Agent** do notebookLM:  
 Para iniciar uma carreira em Cloud e DevOps do zero, o caminho fundamental envolve o equilíbrio entre conceitos teóricos, o domínio de ferramentas essenciais e a criação de um portfólio prático, focando sempre nas necessidades reais do mercado de trabalho
 .
 Abaixo, detalho as etapas recomendadas com base nos documentos:
